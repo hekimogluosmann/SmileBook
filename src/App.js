@@ -13,7 +13,7 @@ const user = [
     id: 2,
     name: "Aydin",
     surname: "Hekimoglu",
-    password: "12345",
+    password: "54321",
   },
 ];
 
